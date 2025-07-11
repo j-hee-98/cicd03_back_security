@@ -16,6 +16,6 @@ public class TestController {
         return ResponseEntity
                 .ok()
                 .contentType(MediaType.valueOf("text/plain;charset=UTF-8"))  //
-                .body("CI/CD GitHub Action - spring Security OK 시작! - 케케케켘");
+                .body("CI/CD GitHub Action - spring Security OK 시작! - react와");
     }
 }
